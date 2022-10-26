@@ -6,6 +6,8 @@ The main objective was to turn my selfies to Naruto characters.
 
 The dataset was trained on two Naruto characters: Sakura and Tsunade.
 
+Model used: U-GAT-IT - Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation.
+
 ### Output 1 - Tsunade:
 ![A2B_0000100](https://user-images.githubusercontent.com/67053046/197969429-759fbe34-606b-44d5-9630-43b6d9727225.png)
 
