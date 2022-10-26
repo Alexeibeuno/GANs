@@ -3,6 +3,7 @@
 GANs abbreviated as Generative Adversarial Networks was first introduced by Ian GoodFellow in 2014. Gans are powerful class of neural networks that are used for unsupervised learning. It is basically made up of a system of two competing neural network models which compete with each other and are able to analyze, capture and copy variations within a dataset.
 
 The main objective was to turn my selfies to Naruto characters.
+
 The dataset was trained on two Naruto characters: Sakura and Tsunade.
 
 ### Output 1 - Tsunade:
