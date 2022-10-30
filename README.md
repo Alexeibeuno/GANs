@@ -11,5 +11,5 @@ Model used: U-GAT-IT - Unsupervised Generative Attentional Networks with Adaptiv
 ### Output 1 - Tsunade:
 ![A2B_0000100](https://user-images.githubusercontent.com/67053046/197969429-759fbe34-606b-44d5-9630-43b6d9727225.png)
 
-### Output 2 - Sakura
+### Output 2 - Sakura:
 ![B2A_0000100](https://user-images.githubusercontent.com/67053046/197969445-c9553db2-5c6f-4f10-ac70-76692e56870c.png)
